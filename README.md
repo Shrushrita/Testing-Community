@@ -2,7 +2,7 @@
 
 This year I have been very intersted in being a part of a larger testing community, be it at my workplace or some group or communities. I am still researching and trying to make list of everything that I am interested in. I am planning to remain active for upcoming years as well.
 
-## Testing Communities
+## Testing Communities - 2025
 
 | S/N | Community Name | Type | Focus Areas | Mode | Location | Membership | Events Offered | Engagement | Perks | URL | Notes |
 |-----|----------------|------|-------------|------|----------|------------|----------------|------------|-------|-----|-------|
@@ -10,3 +10,9 @@ This year I have been very intersted in being a part of a larger testing communi
 | 2 | Test Automation University | Education | Automation, Python, Selenium | Online | - | Free | Self-paced courses | Medium | Certifications | [url](https://testautomationu.applitools.com/) | • Good for building foundational skills |
 | 3 | Reddit r/QualityAssurance | Online Forum | Manual, SDET, Interviews | Online | - | Free | Discussions | Medium | Community Q&A | [url](https://www.reddit.com/r/QualityAssurance/) | • Good general crowd |
 | 4 | Discord Communities with Testing Tags | Online Forum | Manual, SDET, Interviews | Online | - | Free | Discussions | Medium | Community Q&A | [url](https://disboard.org/servers/tag/testing) | • Great crowd in specialization channels |
+
+
+## Conferences -2025
+
+| S/N | Title                                          | Date                     | Registration | Mode    | Location                | Keyword(s)                           | URL                                                                                                           | Perks                              |
+| --- | --------------- | ------------------------ | ------------ | ------- | ----------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
