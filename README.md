@@ -29,4 +29,4 @@ This year I have been very intersted in being a part of a larger testing communi
 
 
 ## Resources
-• [Software Testing Magazine] (https://www.softwaretestingmagazine.com/software-testing-conferences/)
+• [Software Testing Magazine](https://www.softwaretestingmagazine.com/software-testing-conferences/)
