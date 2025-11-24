@@ -26,3 +26,7 @@ This year I have been very intersted in being a part of a larger testing communi
 | S/N | Title | Date | Registration | Mode | Location | Keyword(s) | Perks | URL | Am I Planning to Attend? | Notes |
 |-----|-------|------|--------------|------|----------|------------|-------|-----|---------------|-------|
 | 1 | EuroSTAR 2026 | June 15-18 | - |  Online | - | Testing and GenAI | Intersting Talks | [url](https://conference.eurostarsoftwaretesting.com/conference/2025/programme/) | Not Sure | - |
+
+
+## Resources
+• [Software Testing Magazine] (https://www.softwaretestingmagazine.com/software-testing-conferences/)
