@@ -6,4 +6,4 @@ This year I have been very intersted in being a part of a larger testing communi
 
 | S/N | Community Name | Type | Focus Areas | Mode | Location | Membership | Events Offered | Engagement | Perks | URL | Notes |
 |-----|----------------|------|-------------|------|----------|------------|----------------|------------|-------|-----|-------|
-| 1 | Ministry of Testing | QA Community | Automation, API, Modern Testing | Hybrid | Global | Paid + Free | Webinars, Meetups, Courses | High | Network, Jobs, Challenges | url | Excellent for professional growth |
+| 1 | Ministry of Testing | QA Community | Covering a wide range of topics under testing. | Online | Global | Paid | On Demand Courses , Conferences,  | High | Network, Jobs, Challenges | url | Excellent for professional growth |
