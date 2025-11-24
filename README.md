@@ -17,7 +17,8 @@ This year I have been very intersted in being a part of a larger testing communi
 
 | S/N | Title | Date | Registration | Mode | Location | Keyword(s) | Perks | URL | Did I attend? | Notes |
 |-----|-------|------|--------------|------|----------|------------|-------|-----|---------------|-------|
-| 1 | CypressConf 2025 | October 21-24 | _ |  Online | - | Testing, AI, Automation | Intersting Talks | [url](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0) | Yes | - |
+| 1 | CypressConf 2025 | October 21-24 | - |  Online | - | AI, Automation | Intersting Talks | [url](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0) | Yes | - |
+| 2 | Agile Testing Days 2025 | November 24-27 | - |  Hybrid | Kleiststraße 35, 10787 Berlin, Germany | Agile, QA, Automation | - | [url](https://agiletestingdays.com/program/) | No | - |
 
 
 
