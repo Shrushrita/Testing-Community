@@ -6,4 +6,5 @@ This year I have been very intersted in being a part of a larger testing communi
 
 | S/N | Community Name | Type | Focus Areas | Mode | Location | Membership | Events Offered | Engagement | Perks | URL | Notes |
 |-----|----------------|------|-------------|------|----------|------------|----------------|------------|-------|-----|-------|
-| 1 | Ministry of Testing | QA Community | Covering a wide range of topics under testing. | Online | Global | Paid | On Demand Courses , Conferences,  | High | Network, Jobs, Challenges | [url](https://www.ministryoftesting.com/) | Excellent for professional growth |
+| 1 | Ministry of Testing | QA Community | Covering a wide range of topics under testing. | Online | Global | Paid | On Demand Courses , Conferences,  | High | Network, Jobs, Challenges | [url](https://www.ministryoftesting.com/) | • Excellent for professional growth |
+| 2 | Test Automation University | Education | Automation, Python, Selenium | Online | Global | Free | Self-paced courses | Medium | Certifications | [url](https://testautomationu.applitools.com/) | • Good for building foundational skills |
