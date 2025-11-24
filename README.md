@@ -1,6 +1,6 @@
 # Testing Community
 
-This year I have been very intersted in being a part of a larger testing community, be it at my workplace or some group or communities. I am still researching and trying to make list of everything that I am interested in.
+This year I have been very intersted in being a part of a larger testing community, be it at my workplace or some group or communities. I am still researching and trying to make list of everything that I am interested in. I am planning to remain active for upcoming years as well.
 
 ## Testing Communities
 
