@@ -18,3 +18,11 @@ This year I have been very intersted in being a part of a larger testing communi
 | S/N | Title | Date | Registration | Mode | Location | Keyword(s) | Perks | URL | Did I attend? | Notes |
 |-----|-------|------|--------------|------|----------|------------|-------|-----|---------------|-------|
 | 1 | CypressConf 2025 | October 21-24 | _ |  Online | - | Testing, AI, Automation | Intersting Talks | [url](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0) | Yes | - |
+
+
+
+# Conferences - 2026
+
+| S/N | Title | Date | Registration | Mode | Location | Keyword(s) | Perks | URL | Am I Planning to Attend? | Notes |
+|-----|-------|------|--------------|------|----------|------------|-------|-----|---------------|-------|
+| 1 | EuroSTAR 2026 | June 15-18 | - |  Online | - | Testing and GenAI | Intersting Talks | [url](https://conference.eurostarsoftwaretesting.com/conference/2025/programme/) | Not Sure | - |
