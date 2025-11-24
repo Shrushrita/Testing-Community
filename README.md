@@ -14,15 +14,14 @@ This year I have been very intersted in being a part of a larger testing communi
 
 ## Conferences -2025
 
-
 | S/N | Title | Date | Registration | Mode | Location | Keyword(s) | Perks | URL | Did I attend? | Notes |
 |-----|-------|------|--------------|------|----------|------------|-------|-----|---------------|-------|
 | 1 | CypressConf 2025 | October 21-24 | - |  Online | - | AI, Automation | Intersting Talks | [url](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0) | Yes | - |
 | 2 | Agile Testing Days 2025 | November 24-27 | - |  Hybrid | Kleiststraße 35, 10787 Berlin, Germany | Agile, QA, Automation | - | [url](https://agiletestingdays.com/program/) | No | - |
+| 3 | NextGen Testing QA & AI Summit | November 28 | - |  Hybrid | Bengaluru, Karnataka, India | AI, Cutting-Edge Automation | - | [url](https://apaconferences.net/events-list/nextgen-testing-qa-ai-summit-on-november-28-2025/) | No | - |
 
 
-
-# Conferences - 2026
+## Conferences - 2026
 
 | S/N | Title | Date | Registration | Mode | Location | Keyword(s) | Perks | URL | Am I Planning to Attend? | Notes |
 |-----|-------|------|--------------|------|----------|------------|-------|-----|---------------|-------|
