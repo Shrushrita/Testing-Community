@@ -2,6 +2,13 @@
 
 This year I have been very intersted in being a part of a larger testing community, be it at my workplace or some group or communities. I am still researching and trying to make list of everything that I am interested in. I am planning to remain active for upcoming years as well.
 
+## Conferences - 2026
+
+| S/N | Title | Date | Registration | Mode | Location | Keyword(s) | Perks | URL | Am I Planning to Attend? | Notes |
+|-----|-------|------|--------------|------|----------|------------|-------|-----|---------------|-------|
+| 1 | EuroSTAR 2026 | June 15-18 | - |  Online | - | Testing and GenAI | Intersting Talks | [url](https://conference.eurostarsoftwaretesting.com/conference/2025/programme/) | Not Sure | - |
+
+
 ## Testing Communities - 2025
 
 | S/N | Community Name | Type | Focus Areas | Mode | Location | Membership | Events Offered | Engagement | Perks | URL | Notes |
@@ -21,11 +28,6 @@ This year I have been very intersted in being a part of a larger testing communi
 | 3 | NextGen Testing QA & AI Summit | November 28 | - |  Hybrid | Bengaluru, Karnataka, India | AI, Cutting-Edge Automation | - | [url](https://apaconferences.net/events-list/nextgen-testing-qa-ai-summit-on-november-28-2025/) | No | - |
 
 
-## Conferences - 2026
-
-| S/N | Title | Date | Registration | Mode | Location | Keyword(s) | Perks | URL | Am I Planning to Attend? | Notes |
-|-----|-------|------|--------------|------|----------|------------|-------|-----|---------------|-------|
-| 1 | EuroSTAR 2026 | June 15-18 | - |  Online | - | Testing and GenAI | Intersting Talks | [url](https://conference.eurostarsoftwaretesting.com/conference/2025/programme/) | Not Sure | - |
 
 
 ## Resources
